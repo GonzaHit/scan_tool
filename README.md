@@ -38,4 +38,6 @@ Si es válida, realiza el escaneo de puertos mediante scan_ports.
 Crea el contenido HTML con los resultados y posibles vulnerabilidades llamando a create_html, luego guarda este contenido como un archivo HTML.
 Finalmente, abre el archivo HTML en el navegador y reproduce un sonido (solo en Linux) como una notificación.
 
+Enlace de youtube como funciona la herramienta
 
+[![Alt text](https://img.youtube.com/vi/_O3bQBIGyLg/0.jpg)](https://www.youtube.com/watch?v=_O3bQBIGyLg)
